@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+.file {
+    margin: auto;
+}
+#file {
+    margin: auto;
+    align-items: center;
+}
